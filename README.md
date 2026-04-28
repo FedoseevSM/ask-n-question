@@ -3,6 +3,10 @@
 1. Run `npm install`
 2. Run `npm run dev`
 
+![Home](https://dsgners.ru/_imgs/2500x2000/files/blog_posts/42981/body/k6CMsVkqJm/img-4182_1777310734.webp) 
+![Preview](https://dsgners.ru/_imgs/2500x2000/files/blog_posts/42981/body/-zBkxSMhSs/img-4184_1777310758.webp)
+![Publish](https://dsgners.ru/_imgs/2500x2000/files/blog_posts/42981/body/TLdnlZYRLp/img-4185_1777310806.webp)
+
 ```
 ├── .github/
 │   └── workflows/
